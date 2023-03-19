@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @ErrorTheProgrammer
+- 👋 Hi, I’m @ErrorTP
 - 🌱 I’m currently learning C#,C++,C,Assembly(Intel)
 - Thanks for visiting my page!
