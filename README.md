@@ -38,9 +38,11 @@ Video Games - Because why wouldn't I be <br>
 />
 <img src="https://github-readme-stats.vercel.app/api?username=ErrorTP&show_icons=true&theme=dark#gh-dark-mode-only" />
 </picture>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=errortp&show_icons=true&locale=en&layout=demo" alt="errortp" /></p>
 
 ## 🛠️ My Languages and Tools
+[![Langstats](https://github-readme-stats.vercel.app/api/top-langs?username=errortp&show_icons=true&locale=en&layout=demo&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Langstats](https://github-readme-stats.vercel.app/api/top-langs?username=errortp&show_icons=true&locale=en&layout=demo&theme=light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="80" height="80"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="80" height="80"/>&nbsp;
