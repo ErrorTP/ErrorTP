@@ -1,4 +1,6 @@
 ## Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=errortp&label=Profile%20views&color=0e75b6&style=flat" alt="errortp" /> </p>
+
 Welcome to my GitHub profile! I'm ErrorTP, a hobbist programmer based in the US. Here you'll find some of my projects and contributions.<br>
 I am not very active on Github however I plan to start contributing and making some actively developed open source projects somewhere in the future.<br>
 ## 🔭 Current projects
@@ -13,4 +15,41 @@ Logic Design - Designing logical circuts <br>
 Art - I'm just now starting to get back into it <br>
 Video Games - Because why wouldn't I be <br>
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ErrorTP&show_icons=true)
+
+<picture>
+<source 
+  srcset="http://github-readme-streak-stats.herokuapp.com?user=ErrorTP&theme=github-dark&fire=FF00D8"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="http://github-readme-streak-stats.herokuapp.com?user=ErrorTP&theme=github-light"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=ErrorTP&theme=github-dark&fire=FF00D8" />
+</picture>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=ErrorTP&show_icons=true&theme=dark#gh-dark-mode-only"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=ErrorTP&show_icons=true&theme=default#gh-light-mode-only"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=ErrorTP&show_icons=true&theme=dark#gh-dark-mode-only" />
+</picture>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=errortp&show_icons=true&locale=en&layout=demo" alt="errortp" /></p>
+
+## 🛠️ My Languages and Tools
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="80" height="80"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="80" height="80"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="80" height="80"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="80" height="80"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="80" height="80"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows 10" alt="Windows 10" width="80" height="80"/>
+</div><br>
+
+## My Blog 📰
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
