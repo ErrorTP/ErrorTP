@@ -54,4 +54,5 @@ Video Games - Because why wouldn't I be <br>
 
 ## My Blog 📰
 <!-- BLOG-POST-LIST:START -->
+- [New dev.to account](https://dev.to/errortp/new-devto-account-4lfb)
 <!-- BLOG-POST-LIST:END -->
