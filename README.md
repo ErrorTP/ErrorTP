@@ -7,7 +7,7 @@ I am not very active on Github however I plan to start contributing and making s
 🌙 [Lunaris](https://github.com/ErrorTP/Lunaris16) - A 16 bit assembler for Horizon16(unreleased as of now)<br>
 ## 🌱 What I'm currently learning
 [C](https://github.com/microsoft/clang) - Low level programming languages<br>
-[C++](https://github.com/microsoft/clang) - An expansion on to C++<br>
+[C++](https://github.com/microsoft/clang) - An expansion on to C<br>
 [NASM](https://github.com/netwide-assembler/nasm) - Intel assembly<br>
 ## 👀 Other interests
 Apart from coding, I'm also interested in:<br><br>
