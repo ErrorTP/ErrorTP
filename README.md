@@ -4,9 +4,9 @@
 Welcome to my GitHub profile! I'm ErrorTP, a hobbyist programmer based in the US. Here you'll find some of my projects and contributions.<br>
 I am not very active on Github however I plan to start contributing and making some actively developed open source projects somewhere in the future.<br>
 ## 🔭 Current projects
-🌙 [Lunaris](https://github.com/ErrorTP/Lunaris16) - A 16 bit assembler for Horizon16(unreleased as of now)<br>
+🍓 The Binberry Project
 ## 🌱 What I'm currently learning
-[C](https://github.com/microsoft/clang) - Low level programming languages<br>
+[C](https://github.com/microsoft/clang) - A low level programming language<br>
 [C++](https://github.com/microsoft/clang) - An expansion on to C<br>
 [NASM](https://github.com/netwide-assembler/nasm) - Intel assembly<br>
 ## 👀 Other interests
